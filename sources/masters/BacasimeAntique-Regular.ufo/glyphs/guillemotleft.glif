@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="812"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="386" y="437" type="line"/>
+      <point x="386" y="415" type="line"/>
+      <point x="773" y="-23" type="line"/>
+      <point x="797" y="-8" type="line"/>
+      <point x="539" y="445" type="line"/>
+      <point x="797" y="857" type="line"/>
+      <point x="775" y="874" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="437" type="line"/>
+      <point x="16" y="415" type="line"/>
+      <point x="403" y="-23" type="line"/>
+      <point x="427" y="-8" type="line"/>
+      <point x="169" y="445" type="line"/>
+      <point x="427" y="857" type="line"/>
+      <point x="405" y="874" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>quotes</string>
+    <key>R</key>
+    <string>quotes</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

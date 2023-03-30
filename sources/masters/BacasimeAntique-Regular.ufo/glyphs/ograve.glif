@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="2">
+  <advance width="1060"/>
+  <unicode hex="00F2"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="530" y="424" name="center"/>
+  <anchor x="955" y="849" name="topright"/>
+  <anchor x="528" y="1252" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="gravecomb" xOffset="298"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+gravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

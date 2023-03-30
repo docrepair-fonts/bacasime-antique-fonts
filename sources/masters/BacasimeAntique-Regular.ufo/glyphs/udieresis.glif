@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+  <advance width="1048"/>
+  <unicode hex="00FC"/>
+  <anchor x="540" y="0" name="bottom"/>
+  <anchor x="933" y="0" name="ogonek"/>
+  <anchor x="852" y="849" name="topright"/>
+  <anchor x="505" y="1252" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="167"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

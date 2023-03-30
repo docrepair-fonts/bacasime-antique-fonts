@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="2">
+  <advance width="1345"/>
+  <unicode hex="0178"/>
+  <anchor x="692" y="0" name="bottom"/>
+  <anchor x="693" y="421" name="centre"/>
+  <anchor x="688" y="1533" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dieresiscomb.case" xOffset="355"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+dieresiscomb.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

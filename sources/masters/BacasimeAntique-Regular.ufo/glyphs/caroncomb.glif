@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <advance width="543"/>
+  <unicode hex="030C"/>
+  <anchor x="273" y="849" name="_top"/>
+  <anchor x="269" y="1111" name="top"/>
+  <anchor x="417" y="1230" name="left"/>
+  <anchor x="124" y="1230" name="right"/>
+  <outline>
+    <contour>
+      <point x="289" y="1132" type="line"/>
+      <point x="331" y="1114" type="line"/>
+      <point x="68" y="1361" type="line"/>
+      <point x="50" y="1339" type="line"/>
+      <point x="256" y="1013" type="line"/>
+      <point x="286" y="1013" type="line"/>
+      <point x="493" y="1334" type="line"/>
+      <point x="475" y="1361" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="306" y="0"/>
+  <guideline angle="0" x="0" y="1358"/>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

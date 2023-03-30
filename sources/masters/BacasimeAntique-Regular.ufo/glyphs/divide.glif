@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="1007"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="502" y="214" type="curve" smooth="yes"/>
+      <point x="557" y="214"/>
+      <point x="600" y="257"/>
+      <point x="600" y="311" type="curve" smooth="yes"/>
+      <point x="600" y="363"/>
+      <point x="557" y="407"/>
+      <point x="502" y="407" type="curve" smooth="yes"/>
+      <point x="451" y="407"/>
+      <point x="408" y="363"/>
+      <point x="408" y="311" type="curve" smooth="yes"/>
+      <point x="408" y="257"/>
+      <point x="451" y="214"/>
+    </contour>
+    <contour>
+      <point x="502" y="766" type="curve" smooth="yes"/>
+      <point x="557" y="766"/>
+      <point x="600" y="808"/>
+      <point x="600" y="861" type="curve" smooth="yes"/>
+      <point x="600" y="914"/>
+      <point x="557" y="957"/>
+      <point x="502" y="957" type="curve" smooth="yes"/>
+      <point x="451" y="957"/>
+      <point x="408" y="914"/>
+      <point x="408" y="861" type="curve" smooth="yes"/>
+      <point x="408" y="808"/>
+      <point x="451" y="766"/>
+    </contour>
+    <contour>
+      <point x="917" y="569" type="line"/>
+      <point x="917" y="603" type="line"/>
+      <point x="91" y="603" type="line"/>
+      <point x="91" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>math</string>
+    <key>R</key>
+    <string>math</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+  <advance width="1007"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="836" y="56" type="line"/>
+      <point x="836" y="186" type="line"/>
+      <point x="250" y="186" type="line"/>
+      <point x="259" y="171" type="line"/>
+      <point x="672" y="848" type="line"/>
+      <point x="651" y="868" type="line"/>
+      <point x="172" y="89" type="line"/>
+      <point x="172" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="680" y="-233" type="line"/>
+      <point x="680" y="868" type="line"/>
+      <point x="651" y="868" type="line"/>
+      <point x="543" y="663" type="line"/>
+      <point x="543" y="-233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnName</key>
+  <string>four</string>
+  </dict>
+  </lib>
+</glyph>

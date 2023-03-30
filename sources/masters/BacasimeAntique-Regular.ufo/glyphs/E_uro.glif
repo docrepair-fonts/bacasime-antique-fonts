@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="1008"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="654" y="-23" type="curve" smooth="yes"/>
+      <point x="789" y="-23"/>
+      <point x="900" y="62"/>
+      <point x="900" y="168" type="curve" smooth="yes"/>
+      <point x="900" y="229"/>
+      <point x="866" y="270"/>
+      <point x="810" y="270" type="curve" smooth="yes"/>
+      <point x="767" y="270"/>
+      <point x="737" y="241"/>
+      <point x="737" y="201" type="curve" smooth="yes"/>
+      <point x="737" y="134"/>
+      <point x="783" y="115"/>
+      <point x="783" y="69" type="curve" smooth="yes"/>
+      <point x="783" y="37"/>
+      <point x="724" y="3"/>
+      <point x="648" y="3" type="curve" smooth="yes"/>
+      <point x="468" y="3"/>
+      <point x="373" y="214"/>
+      <point x="373" y="585" type="curve" smooth="yes"/>
+      <point x="373" y="938"/>
+      <point x="468" y="1165"/>
+      <point x="646" y="1165" type="curve" smooth="yes"/>
+      <point x="721" y="1165"/>
+      <point x="780" y="1132"/>
+      <point x="780" y="1099" type="curve" smooth="yes"/>
+      <point x="780" y="1059"/>
+      <point x="733" y="1034"/>
+      <point x="733" y="968" type="curve" smooth="yes"/>
+      <point x="733" y="928"/>
+      <point x="763" y="900"/>
+      <point x="806" y="900" type="curve" smooth="yes"/>
+      <point x="862" y="900"/>
+      <point x="895" y="939"/>
+      <point x="895" y="1003" type="curve" smooth="yes"/>
+      <point x="895" y="1108"/>
+      <point x="782" y="1192"/>
+      <point x="648" y="1192" type="curve" smooth="yes"/>
+      <point x="395" y="1192"/>
+      <point x="207" y="947"/>
+      <point x="207" y="578" type="curve" smooth="yes"/>
+      <point x="207" y="194"/>
+      <point x="388" y="-23"/>
+    </contour>
+    <contour>
+      <point x="628" y="485" type="line"/>
+      <point x="646" y="515" type="line"/>
+      <point x="108" y="515" type="line"/>
+      <point x="108" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="662" type="line"/>
+      <point x="742" y="691" type="line"/>
+      <point x="108" y="691" type="line"/>
+      <point x="108" y="662" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="61.0619" x="731" y="454"/>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>symbols</string>
+    <key>R</key>
+    <string>symbols</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

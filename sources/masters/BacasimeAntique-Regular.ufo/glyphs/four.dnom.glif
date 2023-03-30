@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="2">
+  <advance width="481"/>
+  <outline>
+    <contour>
+      <point x="469" y="77" type="line"/>
+      <point x="469" y="170" type="line"/>
+      <point x="70" y="170" type="line"/>
+      <point x="78" y="163" type="line"/>
+      <point x="351" y="552" type="line"/>
+      <point x="343" y="574" type="line"/>
+      <point x="11" y="102" type="line"/>
+      <point x="11" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="-93" type="line"/>
+      <point x="366" y="574" type="line"/>
+      <point x="342" y="574" type="line"/>
+      <point x="257" y="432" type="line"/>
+      <point x="257" y="-93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

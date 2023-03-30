@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="1007"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="921" y="246" type="line"/>
+      <point x="192" y="586" type="line"/>
+      <point x="921" y="927" type="line"/>
+      <point x="904" y="961" type="line"/>
+      <point x="100" y="586" type="line"/>
+      <point x="904" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="7" type="line"/>
+      <point x="912" y="41" type="line"/>
+      <point x="86" y="41" type="line"/>
+      <point x="86" y="7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>math</string>
+    <key>R</key>
+    <string>math</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

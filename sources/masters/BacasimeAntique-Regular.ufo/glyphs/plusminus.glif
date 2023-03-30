@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="2">
+  <advance width="1007"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="917" y="7" type="line"/>
+      <point x="917" y="41" type="line"/>
+      <point x="91" y="41" type="line"/>
+      <point x="91" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="173" type="line"/>
+      <point x="522" y="569" type="line"/>
+      <point x="917" y="569" type="line"/>
+      <point x="917" y="603" type="line"/>
+      <point x="522" y="603" type="line"/>
+      <point x="522" y="1001" type="line"/>
+      <point x="485" y="1001" type="line"/>
+      <point x="485" y="603" type="line"/>
+      <point x="91" y="603" type="line"/>
+      <point x="91" y="569" type="line"/>
+      <point x="485" y="569" type="line"/>
+      <point x="485" y="173" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>math</string>
+    <key>R</key>
+    <string>math</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

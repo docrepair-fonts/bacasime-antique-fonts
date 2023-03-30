@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+  <advance width="502"/>
+  <unicode hex="0304"/>
+  <anchor x="31" y="1139" name="_bar-left"/>
+  <anchor x="473" y="1139" name="_bar-right"/>
+  <anchor x="252" y="849" name="_top"/>
+  <anchor x="252" y="1252" name="top"/>
+  <outline>
+    <contour>
+      <point x="473" y="1139" type="line"/>
+      <point x="473" y="1171" type="line"/>
+      <point x="31" y="1171" type="line"/>
+      <point x="31" y="1139" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="299" y="0"/>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

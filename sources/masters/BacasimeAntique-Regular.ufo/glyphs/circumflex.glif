@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="543"/>
+  <unicode hex="02C6"/>
+  <anchor x="275" y="849" name="_top"/>
+  <anchor x="127" y="1133" name="left"/>
+  <anchor x="420" y="1133" name="right"/>
+  <anchor x="275" y="1252" name="top"/>
+  <outline>
+    <contour>
+      <point x="255" y="1231" type="line"/>
+      <point x="213" y="1249" type="line"/>
+      <point x="476" y="1002" type="line"/>
+      <point x="494" y="1024" type="line"/>
+      <point x="288" y="1350" type="line"/>
+      <point x="258" y="1350" type="line"/>
+      <point x="50" y="1029" type="line"/>
+      <point x="69" y="1002" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

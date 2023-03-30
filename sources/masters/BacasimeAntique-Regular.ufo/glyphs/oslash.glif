@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <advance width="1060"/>
+  <unicode hex="00F8"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="537" y="849" name="top"/>
+  <anchor x="955" y="849" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="slashshortcomb" xOffset="145"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+slashshortcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

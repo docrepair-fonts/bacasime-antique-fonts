@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="543"/>
+  <unicode hex="02C7"/>
+  <anchor x="273" y="849" name="_top"/>
+  <anchor x="273" y="1252" name="top"/>
+  <outline>
+    <contour>
+      <point x="289" y="1132" type="line"/>
+      <point x="331" y="1114" type="line"/>
+      <point x="68" y="1361" type="line"/>
+      <point x="50" y="1339" type="line"/>
+      <point x="256" y="1013" type="line"/>
+      <point x="286" y="1013" type="line"/>
+      <point x="493" y="1334" type="line"/>
+      <point x="475" y="1361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

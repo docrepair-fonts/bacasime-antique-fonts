@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="1365"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="695" y="-296" type="line"/>
+      <point x="985" y="476" type="line"/>
+      <point x="699" y="1178" type="line"/>
+      <point x="670" y="1178" type="line"/>
+      <point x="381" y="406" type="line"/>
+      <point x="668" y="-296" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="549" type="line"/>
+      <point x="633" y="981" type="line"/>
+      <point x="891" y="329" type="line"/>
+      <point x="733" y="-104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

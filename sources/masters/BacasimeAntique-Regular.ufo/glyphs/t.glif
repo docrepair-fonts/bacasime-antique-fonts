@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+  <advance width="531"/>
+  <unicode hex="0074"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="419" y="0" name="exit"/>
+  <anchor x="387" y="849" name="right"/>
+  <anchor x="11" y="530" name="tbar"/>
+  <anchor x="232" y="1252" name="top"/>
+  <anchor x="355" y="1252" name="topright"/>
+  <outline>
+    <contour>
+      <point x="336" y="-23" type="curve" smooth="yes"/>
+      <point x="437" y="-23"/>
+      <point x="500" y="54"/>
+      <point x="525" y="203" type="curve"/>
+      <point x="502" y="210" type="line"/>
+      <point x="485" y="106"/>
+      <point x="436" y="28"/>
+      <point x="377" y="28" type="curve" smooth="yes"/>
+      <point x="317" y="28"/>
+      <point x="295" y="59"/>
+      <point x="295" y="124" type="curve" smooth="yes"/>
+      <point x="295" y="818" type="line"/>
+      <point x="494" y="818" type="line"/>
+      <point x="494" y="849" type="line"/>
+      <point x="295" y="849" type="line"/>
+      <point x="295" y="1125" type="line"/>
+      <point x="250" y="1111"/>
+      <point x="198" y="1100"/>
+      <point x="146" y="1101" type="curve"/>
+      <point x="146" y="849" type="line"/>
+      <point x="9" y="849" type="line"/>
+      <point x="9" y="818" type="line"/>
+      <point x="146" y="818" type="line"/>
+      <point x="146" y="233" type="line" smooth="yes"/>
+      <point x="146" y="51"/>
+      <point x="200" y="-23"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="7" y="0"/>
+  <lib>
+  <dict>
+  <key>KernOnName</key>
+  <string>t</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

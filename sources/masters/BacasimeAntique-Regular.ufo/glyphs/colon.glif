@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+  <advance width="500"/>
+  <unicode hex="003A"/>
+  <anchor x="294" y="0" name="_Ldot"/>
+  <outline>
+    <contour>
+      <point x="250" y="655" type="curve" smooth="yes"/>
+      <point x="303" y="655"/>
+      <point x="351" y="706"/>
+      <point x="351" y="764" type="curve" smooth="yes"/>
+      <point x="351" y="822"/>
+      <point x="303" y="874"/>
+      <point x="250" y="874" type="curve" smooth="yes"/>
+      <point x="197" y="874"/>
+      <point x="149" y="822"/>
+      <point x="149" y="764" type="curve" smooth="yes"/>
+      <point x="149" y="706"/>
+      <point x="197" y="655"/>
+    </contour>
+    <contour>
+      <point x="250" y="-23" type="curve" smooth="yes"/>
+      <point x="303" y="-23"/>
+      <point x="351" y="28"/>
+      <point x="351" y="86" type="curve" smooth="yes"/>
+      <point x="351" y="144"/>
+      <point x="303" y="196"/>
+      <point x="250" y="196" type="curve" smooth="yes"/>
+      <point x="197" y="196"/>
+      <point x="149" y="144"/>
+      <point x="149" y="86" type="curve" smooth="yes"/>
+      <point x="149" y="28"/>
+      <point x="197" y="-23"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>spaced-off</string>
+    <key>R</key>
+    <string>spaced-off</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

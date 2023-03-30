@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortcomb" format="2">
+  <advance width="765"/>
+  <unicode hex="0337"/>
+  <anchor x="385" y="424" name="_center"/>
+  <outline>
+    <contour>
+      <point x="570" y="720" type="line"/>
+      <point x="554" y="742" type="line"/>
+      <point x="201" y="129" type="line"/>
+      <point x="216" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="100" type="line"/>
+      <point x="184" y="120" type="line"/>
+      <point x="52" y="-87" type="line"/>
+      <point x="73" y="-106" type="line"/>
+    </contour>
+    <contour>
+      <point x="718" y="970" type="line"/>
+      <point x="696" y="995" type="line"/>
+      <point x="573" y="746" type="line"/>
+      <point x="591" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

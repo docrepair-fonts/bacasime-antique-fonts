@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space" format="2">
+  <advance width="512"/>
+  <unicode hex="0020"/>
+  <anchor x="0" y="0" name="bottom"/>
+  <anchor x="0" y="849" name="top"/>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

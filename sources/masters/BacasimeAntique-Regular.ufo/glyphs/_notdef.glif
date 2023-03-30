@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+  <advance width="682"/>
+  <outline>
+    <contour>
+      <point x="695" y="0" type="line"/>
+      <point x="695" y="1275" type="line"/>
+      <point x="83" y="1275" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="1204" type="line"/>
+      <point x="615" y="1204" type="line"/>
+      <point x="615" y="71" type="line"/>
+      <point x="164" y="71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

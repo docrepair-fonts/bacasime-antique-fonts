@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent-bar" format="2">
+  <advance width="131"/>
+  <anchor x="67" y="0" name="_currency"/>
+  <outline>
+    <contour>
+      <point x="81" y="-301" type="line"/>
+      <point x="81" y="6" type="line"/>
+      <point x="51" y="6" type="line"/>
+      <point x="51" y="-301" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="853" type="line"/>
+      <point x="81" y="1169" type="line"/>
+      <point x="51" y="1169" type="line"/>
+      <point x="51" y="853" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="2">
+  <advance width="648"/>
+  <anchor x="324" y="1169" name="_top"/>
+  <anchor x="536" y="1407" name="right"/>
+  <anchor x="324" y="1533" name="top"/>
+  <outline>
+    <contour>
+      <point x="288" y="1449" type="line"/>
+      <point x="246" y="1460" type="line"/>
+      <point x="581" y="1281" type="line"/>
+      <point x="598" y="1304" type="line"/>
+      <point x="346" y="1543" type="line"/>
+      <point x="304" y="1543" type="line"/>
+      <point x="50" y="1304" type="line"/>
+      <point x="66" y="1281" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="350" y="0"/>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

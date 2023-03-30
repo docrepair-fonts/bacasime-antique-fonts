@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="2">
+  <advance width="724"/>
+  <unicode hex="0161"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="367" y="1111" name="top"/>
+  <anchor x="515" y="1230" name="left"/>
+  <anchor x="222" y="1230" name="right"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb" xOffset="98"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+caroncomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

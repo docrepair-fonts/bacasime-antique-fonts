@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="852"/>
+  <unicode hex="00E7"/>
+  <anchor x="472" y="0" name="currency"/>
+  <anchor x="457" y="849" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="258"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedillacomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

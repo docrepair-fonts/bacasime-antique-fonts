@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="106"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="72" y="-382" type="line"/>
+      <point x="72" y="538" type="line"/>
+      <point x="34" y="538" type="line"/>
+      <point x="34" y="-382" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="634" type="line"/>
+      <point x="72" y="1417" type="line"/>
+      <point x="34" y="1417" type="line"/>
+      <point x="34" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>NoKerning</string>
+    <key>R</key>
+    <string>NoKerning</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

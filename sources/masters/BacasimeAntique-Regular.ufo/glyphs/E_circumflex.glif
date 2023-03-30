@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="1276"/>
+  <unicode hex="00CA"/>
+  <anchor x="668" y="0" name="bottom"/>
+  <anchor x="1058" y="0" name="ogonek"/>
+  <anchor x="827" y="1407" name="right"/>
+  <anchor x="615" y="1533" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb.case" xOffset="291"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+circumflexcomb.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

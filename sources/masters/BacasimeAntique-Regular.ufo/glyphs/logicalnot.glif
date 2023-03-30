@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="1024"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="925" y="252" type="line"/>
+      <point x="925" y="611" type="line"/>
+      <point x="99" y="611" type="line"/>
+      <point x="99" y="576" type="line"/>
+      <point x="888" y="576" type="line"/>
+      <point x="888" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>math</string>
+    <key>R</key>
+    <string>math</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright" format="2">
+  <advance width="601"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="50" y="-315" type="line"/>
+      <point x="302" y="-315"/>
+      <point x="353" y="-273"/>
+      <point x="375" y="78" type="curve" smooth="yes"/>
+      <point x="403" y="493"/>
+      <point x="411" y="478"/>
+      <point x="539" y="478" type="curve" smooth="yes"/>
+      <point x="550" y="478" type="line"/>
+      <point x="550" y="507" type="line"/>
+      <point x="539" y="507" type="line" smooth="yes"/>
+      <point x="412" y="507"/>
+      <point x="408" y="421"/>
+      <point x="375" y="910" type="curve" smooth="yes"/>
+      <point x="354" y="1225"/>
+      <point x="304" y="1292"/>
+      <point x="50" y="1292" type="curve"/>
+      <point x="50" y="1262" type="line"/>
+      <point x="238" y="1252"/>
+      <point x="208" y="1216"/>
+      <point x="227" y="908" type="curve" smooth="yes"/>
+      <point x="246" y="613"/>
+      <point x="272" y="568"/>
+      <point x="452" y="492" type="curve"/>
+      <point x="277" y="416"/>
+      <point x="239" y="311"/>
+      <point x="227" y="78" type="curve" smooth="yes"/>
+      <point x="212" y="-275"/>
+      <point x="212" y="-280"/>
+      <point x="50" y="-286" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>KernOnSpecialSpacing</key>
+  <dict>
+    <key>L</key>
+    <string>parenthesis</string>
+    <key>R</key>
+    <string>parenthesis</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

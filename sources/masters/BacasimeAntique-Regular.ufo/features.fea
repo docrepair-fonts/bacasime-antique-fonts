@@ -1,0 +1,13 @@
+#> classes
+#/> tags
+@mux_lc = [a aacute acircumflex adieresis ae agrave aring atilde b c caron ccedilla circumflex d dotlessi dotlessj e eacute ecircumflex edieresis egrave eth f fi fl florin g germandbls h i iacute icircumflex idieresis igrave j k l m mu n ntilde o oacute ocircumflex odieresis oe ograve ordfeminine ordmasculine oslash otilde p pi q r s scaron t thorn u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z];
+@mux_ot = [.notdef Euro acute acutecomb acutecomb.case ampersand approxequal asciicircum asciitilde asterisk at backslash bar braceleft braceright bracketleft bracketright breve brevecomb brokenbar bullet caroncomb caroncomb.case cedilla cedillacomb cent cent-bar circumflexcomb circumflexcomb.case colon comma copyright currency dagger daggerdbl degree dieresis dieresiscomb dieresiscomb.case divide dollar dollar-bar dotaccent dotaccentcomb eight ellipsis emdash endash equal exclam exclamdown five four four.dnom fraction grave gravecomb gravecomb.case greater greaterequal guillemotleft guillemotright guilsinglleft guilsinglright hungarumlaut hungarumlautcomb hyphen infinity integral less lessequal logicalnot lozenge macron macroncomb minus multiply nbspace nine notequal numbersign ogonek ogonekcomb one one.inferior one.numr onehalf onequarter onesuperior paragraph parenleft parenright partialdiff percent period periodcentered perthousand plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle radical registered ring ringcomb ringcomb.case section semicolon seven six slash slashlongcomb slashshortcomb space sterling summation three three.inferior three.numr threequarters threesuperior tilde tildecomb tildecomb.case trademark two two.dnom two.inferior twosuperior underscore uniF8FF yen zero];
+@mux_uc = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D Delta E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Omega Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z];
+#/< tags
+#< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+#< languagesystem
