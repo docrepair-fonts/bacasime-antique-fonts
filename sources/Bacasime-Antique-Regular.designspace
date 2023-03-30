@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wdth" maximum="220" name="width" minimum="80" default="100">
+  <axis name="width" default="100" minimum="80" maximum="220" tag="wdth">
    <labelname xml:lang="en">Width</labelname>
    <map output="80" input="80"/>
    <map output="100" input="100"/>
@@ -9,13 +9,13 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/BacasimeAntique-Regular.ufo" stylename="Regular" familyname="Bacasime Antique" name="Regular">
+  <source name="Regular" filename="masters/BacasimeAntique-Regular.ufo" familyname="Bacasime Antique" stylename="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="100" name="width"/>
+    <dimension name="width" xvalue="100"/>
    </location>
   </source>
  </sources>
@@ -41,9 +41,9 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/BacasimeAntique-Regular.ufo" stylename="Regular" familyname="Bacasime Antique" name="Regular">
+  <instance name="Regular" filename="instances/BacasimeAntique-Regular.ufo" familyname="Bacasime Antique" stylename="Regular">
    <location>
-    <dimension xvalue="100" name="width"/>
+    <dimension name="width" xvalue="100"/>
    </location>
   </instance>
  </instances>

@@ -8,3 +8,6 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Adam Twardoch <adam+github@twardoch.com>
+Claus Eggers Sørensen <https://forthehearts.net/>
