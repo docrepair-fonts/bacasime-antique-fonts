@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
   <advance width="1073"/>
-  <unicode hex="FB01"/>
+  <unicode hex="F001"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>

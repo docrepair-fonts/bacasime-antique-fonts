@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent" format="2">
-  <advance width="378"/>
+  <advance width="1024"/>
   <unicode hex="02D9"/>
   <anchor x="219" y="849" name="_top"/>
   <anchor x="219" y="1252" name="top"/>
@@ -21,14 +21,14 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>KernOnSpecialSpacing</key>
-  <dict>
-    <key>L</key>
-    <string>NoKerning</string>
-    <key>R</key>
-    <string>NoKerning</string>
-  </dict>
-  </dict>
+    <dict>
+      <key>KernOnSpecialSpacing</key>
+      <dict>
+        <key>L</key>
+        <string>NoKerning</string>
+        <key>R</key>
+        <string>NoKerning</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
   <advance width="502"/>
-  <unicode hex="00AF"/>
+  <unicode hex="02C9"/>
   <anchor x="31" y="1139" name="_bar-left"/>
   <anchor x="473" y="1139" name="_bar-right"/>
   <anchor x="252" y="849" name="_top"/>
@@ -15,14 +15,14 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>KernOnSpecialSpacing</key>
-  <dict>
-    <key>L</key>
-    <string>NoKerning</string>
-    <key>R</key>
-    <string>NoKerning</string>
-  </dict>
-  </dict>
+    <dict>
+      <key>KernOnSpecialSpacing</key>
+      <dict>
+        <key>L</key>
+        <string>NoKerning</string>
+        <key>R</key>
+        <string>NoKerning</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

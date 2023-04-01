@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis name="width" default="100" minimum="80" maximum="220" tag="wdth">
+  <axis maximum="220" name="width" minimum="80" default="100" tag="wdth">
    <labelname xml:lang="en">Width</labelname>
-   <map output="80" input="80"/>
-   <map output="100" input="100"/>
-   <map output="300" input="220"/>
+   <map input="80" output="80"/>
+   <map input="100" output="100"/>
+   <map input="220" output="300"/>
   </axis>
  </axes>
  <sources>
-  <source name="Regular" filename="masters/BacasimeAntique-Regular.ufo" familyname="Bacasime Antique" stylename="Regular">
+  <source name="Regular" filename="masters/BacasimeAntique-Regular.ufo" stylename="Regular" familyname="Bacasime Antique">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -21,18 +21,6 @@
  </sources>
  <lib>
   <dict>
-   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
-   <array>
-    <dict>
-     <key>class</key>
-     <string>KernFeatureWriter</string>
-     <key>options</key>
-     <dict>
-      <key>mode</key>
-      <string>skip</string>
-     </dict>
-    </dict>
-   </array>
    <key>org.docrepair-fonts.fit</key>
    <dict>
     <key>tgt_Regular</key>
@@ -41,7 +29,7 @@
   </dict>
  </lib>
  <instances>
-  <instance name="Regular" filename="instances/BacasimeAntique-Regular.ufo" familyname="Bacasime Antique" stylename="Regular">
+  <instance name="Regular" filename="instances/BacasimeAntique-Regular.ufo" stylename="Regular" familyname="Bacasime Antique">
    <location>
     <dimension name="width" xvalue="100"/>
    </location>

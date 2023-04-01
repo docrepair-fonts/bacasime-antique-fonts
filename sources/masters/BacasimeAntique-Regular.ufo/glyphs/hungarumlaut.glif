@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="602"/>
+  <advance width="1024"/>
   <unicode hex="02DD"/>
   <anchor x="216" y="849" name="_top"/>
   <anchor x="216" y="1252" name="top"/>
@@ -37,14 +37,14 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>KernOnSpecialSpacing</key>
-  <dict>
-    <key>L</key>
-    <string>NoKerning</string>
-    <key>R</key>
-    <string>NoKerning</string>
-  </dict>
-  </dict>
+    <dict>
+      <key>KernOnSpecialSpacing</key>
+      <dict>
+        <key>L</key>
+        <string>NoKerning</string>
+        <key>R</key>
+        <string>NoKerning</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>
