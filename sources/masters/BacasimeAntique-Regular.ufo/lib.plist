@@ -292,8 +292,8 @@
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
-      <string>cent-bar</string>
-      <string>dollar-bar</string>
+      <string>centbar</string>
+      <string>dollarbar</string>
       <string>uniF8FF</string>
       <string>apple</string>
     </array>

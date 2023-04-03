@@ -202,8 +202,8 @@
     <string>cedillacomb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
-    <key>cent-bar</key>
-    <string>cent-bar.glif</string>
+    <key>centbar</key>
+    <string>centbar.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
     <key>circumflexcomb</key>
@@ -236,8 +236,8 @@
     <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
-    <key>dollar-bar</key>
-    <string>dollar-bar.glif</string>
+    <key>dollarbar</key>
+    <string>dollarbar.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>dotaccentcomb</key>
