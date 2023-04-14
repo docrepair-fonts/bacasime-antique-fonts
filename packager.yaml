@@ -1,0 +1,10 @@
+name: Bacasime Antique
+repository_url: https://github.com/docrepair-fonts/bacasime-antique-fonts
+category:
+  - SERIF
+designer: The DocRepair Project, Claus Eggers Sørensen
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  fonts/ttf/BacasimeAntique-Regular.ttf: BacasimeAntique-Regular.ttf
