@@ -24,11 +24,11 @@ build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
 	fontmake -m $(SOURCES) -o ttf --feature-writer None --output-dir "fonts/ttf"; \
 	fonts=$$(find "fonts/ttf" -type f -name "*.ttf"); \
 	echo $$fonts; \
-	if [ -n "$$fonts" ]; then \
-		for font in $$fonts; do \
-			gftools fix-font "$$font"; \
-			mv "$$font.fix" "$$font"; \
-		done; \
+	# if [ -n "$$fonts" ]; then \
+	# 	for font in $$fonts; do \
+	# 		gftools fix-font "$$font"; \
+	# 		mv "$$font.fix" "$$font"; \
+	# 	done; \
 	fi && touch build.stamp;
 
 .init.stamp: venv

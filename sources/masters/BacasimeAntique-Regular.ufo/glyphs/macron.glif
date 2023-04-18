@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
-  <advance width="502"/>
+  <advance width="1024"/>
   <unicode hex="02C9"/>
   <anchor x="31" y="1139" name="_bar-left"/>
   <anchor x="473" y="1139" name="_bar-right"/>
